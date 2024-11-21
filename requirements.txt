@@ -1,0 +1,4 @@
+requests
+stramlit
+groq
+python-dotenv
